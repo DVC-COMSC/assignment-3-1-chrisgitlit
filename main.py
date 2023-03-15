@@ -1,9 +1,5 @@
-def main():
-    ##################################################
-    # Comlete your code here
-    ##################################################
 
-  import random 
+ import random 
 
     n1 = random.randint(0,100)
     n2 = random.randint(0,100)
@@ -17,5 +13,4 @@ def main():
     else:
         print (f'{n3} is the smallest number')
 
-if __name__ == '__main__':
-    main()
+
